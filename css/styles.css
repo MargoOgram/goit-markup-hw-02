@@ -1,0 +1,193 @@
+ body {
+    font-family: 'Roboto', sans-serif;
+    color: #757575;
+    background-color: #F5F5F5;
+}
+.list {
+        list-style: none;
+}
+
+.link {
+        text-decoration: none;
+}
+.logo {
+        font-family: 'Raleway', sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        color: #2196F3;
+}
+.header-logo {
+        font-family: 'Raleway' sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        color: #000000;
+}
+
+
+.header-link {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        color: #212121;
+        text-decoration: none;
+}
+.header-link:hover,
+.header-link:focus {
+        color: #2196F3;
+}
+.header-contact {
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 1.14;
+        letter-spacing: 0.02em;
+        color: #757575;
+        text-decoration: none;
+}
+.header-contact:hover,
+.header-contact:focus {
+        color: #2196F3;
+}
+.title {
+        font-weight: 900;
+        font-size: 44px;
+        line-height: 1.36;
+        text-align: center;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: #FFFFFF;
+}
+.service-button  {
+        font-weight: 700;
+        font-size: 16px;
+        line-height: 30px;
+        display: flex;
+        align-items: center;
+        text-align: center;
+        letter-spacing: 0.06em;
+        color: #FFFFFF;
+        cursor: pointer;
+        /* background: #2196F3;
+        box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+        border-radius: 4px; */
+}
+.benefits {
+        position: absolute;
+        top: -9999px;
+        left: -9999px;
+}
+.title-list {
+        font-weight: 700;
+        font-size: 14px;
+        line-height: 16px;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #212121;
+        
+}
+.text-list{
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.71;
+        letter-spacing: 0.03em;
+        color: #757575;
+}
+.title-section {
+        font-weight: 700;
+        font-size: 36px;
+        line-height: 1.16;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #212121;
+}
+.title-name {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.18;
+        /* text-align: center; */
+        letter-spacing: 0.03em;
+        color: #212121;
+}
+.work_position {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.18;
+        /* text-align: center; */
+        letter-spacing: 0.03em;
+         color: #757575;
+}
+.footer {
+        background: #2F303A;
+}
+.footer-logo {
+        font-family: 'Raleway' sans-serif;
+        font-style: normal;
+        font-weight: 700;
+        font-size: 26px;
+        line-height: 1.19;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+}
+.footer-address {
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.71;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+}
+.footer-contact {
+        text-decoration: none;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 1.71;
+        letter-spacing: 0.03em;
+        color: rgba(255, 255, 255, 0.6);
+}
+ /* portfolio */
+
+ .btn-port {
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.62;
+        text-align: center;
+        letter-spacing: 0.03em;
+        color: #212121;
+        width: 125px;
+        height: 38px;
+        left: 593px;
+        top: 174px;
+        cursor: pointer;
+ }
+ .btn-port:hover,
+ .btn-port:focus {
+        color: #FFFFFF;
+ }
+.title-port {
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 2;
+        letter-spacing: 0.06em;
+        color: #212121;
+}
+.view {
+        font-size: 16px;
+        line-height: 1.87;
+        letter-spacing: 0.03em;
+        color: #757575;
+}
+.service-port {
+        font-size: 18px;
+        line-height: 28px;
+        letter-spacing: 0.03em;
+        color: #FFFFFF;
+}
+
+
+
+
