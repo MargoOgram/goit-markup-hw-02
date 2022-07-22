@@ -6,6 +6,9 @@
 .list {
         list-style: none;
 }
+.list .header-link.current {
+        color: #2196F3;
+}
 
 .link {
         text-decoration: none;
@@ -134,7 +137,14 @@
         letter-spacing: 0.03em;
         color: #FFFFFF;
 }
+.footer-address:hover,
+.footer-addres:focus,
+.footer-contact:hover,
+.foter-contact:focus {
+         color: #2196F3; ;
+} 
 .footer-address {
+        font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
@@ -142,6 +152,7 @@
         color: #FFFFFF;
 }
 .footer-contact {
+        font-style: normal;
         text-decoration: none;
         font-weight: 400;
         font-size: 14px;
